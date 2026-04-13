@@ -1,0 +1,1 @@
+# Alzheimer-Te-hisinde-Veri-Analizi
