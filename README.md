@@ -1,1 +1,1 @@
-# Alzheimer-Te-hisinde-Veri-Analizi
+# Alzheimer-Teshisinde-Veri-Analizi
